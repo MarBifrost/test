@@ -1,0 +1,21 @@
+.dates {
+    display: flex;
+    gap: 20px;
+
+}
+
+@font-face {
+    font-family: Inconsolata;
+    src: url(fonts/akolkhni.otf);
+}
+
+body {
+    background: #D7BBF5;
+    background-repeat: no-repeat;
+}
+
+#result {
+    color: purple;
+    margin-top: 30px;
+}
+
